@@ -1,0 +1,42 @@
+body{
+    background-color: black;
+    margin-top: 100px;
+  
+}
+.inp{
+    height: 50px;
+    width: 490px;
+    border: 1px solid white ;
+    background-color: white;
+    border-radius: 10px;
+    margin-right: 30px;
+    font-size: 20px;
+    outline: none;
+}
+.btn1{
+    height: 50px;
+    width: 80px;
+    border: 1px solid white ;
+    background-color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.btn2{
+    height: 30px;
+    width: 80px;
+    border: 1px solid rgb(4, 4, 4) ;
+    background-color: rgb(3, 3, 3);
+    color: white;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.cont{
+    width: 40%;
+    padding-bottom: 20px;
+    margin: auto;
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 10px;
+}
